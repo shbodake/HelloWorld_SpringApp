@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HelloWorlddemo1Application {
 
 	public static void main(String[] args) {
+		System.out.println("Hello from Bridgelabz");
 		SpringApplication.run(HelloWorlddemo1Application.class, args);
 	}
 
